@@ -1,3 +1,6 @@
+this rep forked from [Start Bootstrap - Coming Soon](https://startbootstrap.com/themes/coming-soon/)
+This template has been edited for a small business temporary website.
+This business operates in the field of IoT.
 # [Start Bootstrap - Coming Soon](https://startbootstrap.com/themes/coming-soon/)
 
 [Coming Soon](https://startbootstrap.com/themes/coming-soon/) is a simple coming soon theme for [Bootstrap](https://getbootstrap.com/) created by [Start Bootstrap](https://startbootstrap.com/). This theme features a background video with a mobile background image fallback.
